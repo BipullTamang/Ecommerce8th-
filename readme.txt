@@ -9,7 +9,7 @@ Step 1. Make and activate virtual Environment in your computer
     $ source bin/activate
 
 Step 2. Clone the project
-    $ git clone https://gitlab.com/ecedreamer/ecomtuts.git
+
     $ cd ecomtuts
     if you donot have git in your computer, install it before and clone it again.
 
@@ -27,6 +27,3 @@ Step 5: You can now open project folder in your editor
 Step 6: Run Development server
     $ python manage.py runserver
 
-
-Now you can modify the code and data
-Make better design to make your project more stunning. 
